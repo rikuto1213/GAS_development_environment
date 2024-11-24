@@ -8,7 +8,6 @@ This repository provides a streamlined development environment for Google Apps S
 * Clasp Deployment: Seamless deployment to Google Apps Script via the clasp CLI.
 ## Requirements
 * Node.js (version 16 or later)
-* clasp installed globally (npm install -g @google/clasp)
 * Google account with access to Apps Script
 ## Installation
 1. Clone this repository:
