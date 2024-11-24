@@ -49,10 +49,10 @@ clasp push
 Test your scripts in the Apps Script editor or directly in your project.
 
 ## Scripts
-* npm run build: Bundles the code using Rollup.
-* npm run deploy: Builds and deploys the code to Apps Script.
-* clasp pull: Pulls the latest changes from Apps Script.
-* clasp push: Pushes local changes to Apps Script.
+* `npm run build`: Bundles the code using Rollup.
+* `npm run deploy`: Builds and deploys the code to Apps Script.
+* `clasp pull`: Pulls the latest changes from Apps Script.
+* `clasp push`: Pushes local changes to Apps Script.
 ## Directory Structure
 ```plaintext
 GAS_development_environment/
