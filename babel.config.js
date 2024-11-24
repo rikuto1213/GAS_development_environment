@@ -7,7 +7,7 @@ export default {
       babelPresetEnv,
       {
         targets: {
-          node: "current", // 現在のNode.jsバージョンに合わせたES機能を使用
+          node: "current",
         },
       },
     ],
