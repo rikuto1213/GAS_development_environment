@@ -13,7 +13,7 @@ This repository provides a streamlined development environment for Google Apps S
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/GAS_development_environment.git
+git clone https://github.com/show-creater/GAS_development_environment.git
 cd GAS_development_environment
 ```
 
